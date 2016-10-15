@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Swiggy</string>
+    <string name="latest">Latest</string>
+    <string name="popular">Popular</string>
+    <string name="filter">Filter</string>
+    <string name="title_activity_filter">FilterActivity</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="team">Team</string>
+    <string name="tag">Topic/Tag</string>
+    <string name="a2">A2</string>
+    <string name="management">Management</string>
+    <string name="operation">Operation</string>
+    <string name="technology">Technology</string>
+    <string name="apply">Apply</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_1978036f40f21eed4857a69ff20693ffad29b827/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_19b23a06689d776b3b7ce8e076a0c864a88a8b3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_f09417fd2a2875089ee980f39f6275937b96f6d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4f8ba462a3fa1e736935f5c4207e100efcc838e8">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_07c9872ed11eeea8ed93af04f1765dceea849f8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_30232ebf3e7278f9a3ba69f7222ab10aea00d0b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_375c29e1a6dd79567c0c62cfca6bc7b0a04b9007/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.1.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aba9abcfe7ce6d935add115f5ce20254b037d583">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.timber-timber-4.1.2_76422835a9d0eea5d8c0a906f2c80072eb368928/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_068b93d6cc6e96720268c86b26c6e14878a796df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.3.0_32769ee7e7c78164d876a81787962d5e7d66033e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_f96b51ab21dcf966e1035a484b966715894d9244/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1f0177241ca21fa8054d469e6b8e818d1d8f4d26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_f05ef1c084c5c8e707afa33d81e95c13a7127bd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.pkmmte.view/circularimageview/1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.pkmmte.view-circularimageview-1.1_c16176d516eca95d2e75ebf17b637ed3d824976d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_edeb95437c3aa82c1ab48d6495c812eaf9d612cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_63e72e13c1d4b5c088ea96ad88bb53fa4a7099fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_4e3d89b9cb5991a9fd8d19bb12c3ec5e59618b97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_98620363eb862f355bb3b6e17582fae31efa0d61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_73b9f92005a38246ec70d81a1d0fd089c183efd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_a22cbd4a0b726c837e0d0ac5f05dcc3e912070ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_8f4eb0f40e092253253f67995fa4128f3854165d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_23e3e7fb67b6691390e6b4e3b91918ab2d230442/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.3.0_12871fd547149931a9ad18fbdf9e3452fbf5651c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ab70a39d53d2c01d06c1d6f60b80e8e1d0b5947a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-1.9.0_6accdb2a099fe4604bab294ddfd7c1ebbc2f309c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_2da7df88a797ef7cda7d70c5dfdc5da91d67fc70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_e2544e6f78e6177c7cd6c7c1c3445e14e0d26221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/Desktop/Swiggy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f5eb78529525d7d0e372fb2af0b0e50e02460103">
+        <dex dex="/Users/gautam/Desktop/Swiggy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_44cb348084dd42e35c423e7aae7c69b98eeb5033/classes.dex" />
+    </item>
+
+</items>
